@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8861281B-EB3C-4667-AD7D-9C21431FCCD7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StationeersStackedBuilder</RootNamespace>
-    <AssemblyName>StationeersStackedBuilder</AssemblyName>
+    <RootNamespace>StationeersStackManager</RootNamespace>
+    <AssemblyName>StationeersStackManager</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
